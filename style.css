@@ -1,0 +1,41 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+main {
+  position: absolute;
+}
+
+
+
+h1 {
+  font-family: Arial, sans-serif;
+  font-style: bolder;
+  font-size: 40px;
+
+}
+h2 {
+  margin-top: 0em;
+}
+
+article p {
+font-family: arial, sans-serif;
+font-size: 14px;
+
+}
+
+article {
+  border-radius: 1.2em;
+  margin: auto;
+  padding: 1rem;
+  width: 80%;
+  backdrop-filter: blur(5px);
+  background-color: rgba(195, 195, 195, 0.474);
+}
+
+.center {
+  margin: auto;
+  width: 90%;
+  text-align: center;
+}
